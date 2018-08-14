@@ -5,5 +5,3 @@
 appschema 2018-08-14T09:39:58Z gaurav soni <gauravsoni1992@gmail.com> # Add schema for all flipr objects.
 users [appschema] 2018-08-14T09:53:20Z gaurav soni <gauravsoni1992@gmail.com> # Creates table to track our users.
 @v1.0.0-dev1 2018-08-14T10:00:43Z gaurav soni <gauravsoni1992@gmail.com> # Tag v1.0.0-dev1.
-
-flips [appschema users] 2018-08-14T10:10:27Z gaurav soni <gauravsoni1992@gmail.com> # Adds table for storing flips.
