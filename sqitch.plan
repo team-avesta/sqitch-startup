@@ -10,4 +10,5 @@ flips [appschema users] 2018-08-14T10:10:27Z gaurav soni <gauravsoni1992@gmail.c
 insert_flip [flips appschema] 2018-08-14T10:13:50Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to insert into flip.
 delete_flip [flips appschema] 2018-08-14T10:14:07Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to delete into flip.
 update_flip [flips appschema] 2018-08-14T10:25:54Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to delete into flip.
+update_2_flip [flips appschema] 2018-08-14T11:03:55Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to update-2 into flip.
 update_1_flip [flips appschema] 2018-08-14T11:03:31Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to update-1 into flip.
