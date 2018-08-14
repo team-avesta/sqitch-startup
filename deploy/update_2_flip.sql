@@ -13,5 +13,7 @@ CREATE OR REPLACE FUNCTION flipr.update_2_flip(
     INSERT INTO flipr.flips (nickname, body)
     VALUES ($1, $2)
     RETURNING id;
+
+    --Test Code
 $$;
 COMMIT;
