@@ -14,3 +14,4 @@ update_2_flip [flips appschema] 2018-08-14T11:03:55Z gaurav soni <gauravsoni1992
 update_1_flip [flips appschema] 2018-08-14T11:03:31Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to update-1 into flip.
 @v1.0.0-dev2 2018-08-14T11:23:30Z gaurav soni <gauravsoni1992@gmail.com> # Tag v1.0.0-dev2.
 update_2_flip [update_2_flip@v1.0.0-dev2 flips] 2018-08-14T11:24:11Z gaurav soni <gauravsoni1992@gmail.com> # Change update_2_flip
+@v1.0.0-dev3 2018-08-16T14:17:00Z gaurav soni <gauravsoni1992@gmail.com> # Tag v1.0.0-dev3.
