@@ -2,4 +2,5 @@
 %project=flipr
 %uri=https://github.com/theory/sqitch-intro/
 
+users_1 2018-08-22T05:42:44Z gaurav soni <gauravsoni1992@gmail.com> # Creates table to track our users.
 subjects 2018-08-22T05:45:25Z root <root@8612508cf0c4> # Creates table to store subjects
