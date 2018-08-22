@@ -1,17 +1,3 @@
 %syntax-version=1.0.0
 %project=flipr
 %uri=https://github.com/theory/sqitch-intro/
-
-appschema 2018-08-14T09:39:58Z gaurav soni <gauravsoni1992@gmail.com> # Add schema for all flipr objects.
-users [appschema] 2018-08-14T09:53:20Z gaurav soni <gauravsoni1992@gmail.com> # Creates table to track our users.
-@v1.0.0-dev1 2018-08-14T10:00:43Z gaurav soni <gauravsoni1992@gmail.com> # Tag v1.0.0-dev1.
-
-flips [appschema users] 2018-08-14T10:10:27Z gaurav soni <gauravsoni1992@gmail.com> # Adds table for storing flips.
-insert_flip [flips appschema] 2018-08-14T10:13:50Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to insert into flip.
-delete_flip [flips appschema] 2018-08-14T10:14:07Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to delete into flip.
-update_flip [flips appschema] 2018-08-14T10:25:54Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to delete into flip.
-update_2_flip [flips appschema] 2018-08-14T11:03:55Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to update-2 into flip.
-update_1_flip [flips appschema] 2018-08-14T11:03:31Z gaurav soni <gauravsoni1992@gmail.com> # Creates a function to update-1 into flip.
-@v1.0.0-dev2 2018-08-14T11:23:30Z gaurav soni <gauravsoni1992@gmail.com> # Tag v1.0.0-dev2.
-update_2_flip [update_2_flip@v1.0.0-dev2 flips] 2018-08-14T11:24:11Z gaurav soni <gauravsoni1992@gmail.com> # Change update_2_flip
-@v1.0.0-dev3 2018-08-16T14:17:00Z gaurav soni <gauravsoni1992@gmail.com> # Tag v1.0.0-dev3.
