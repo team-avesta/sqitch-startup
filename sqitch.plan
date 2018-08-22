@@ -1,3 +1,5 @@
 %syntax-version=1.0.0
 %project=flipr
 %uri=https://github.com/theory/sqitch-intro/
+
+subjects 2018-08-22T05:45:25Z root <root@8612508cf0c4> # Creates table to store subjects
